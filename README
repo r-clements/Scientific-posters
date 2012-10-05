@@ -1,0 +1,9 @@
+This repository contains the files for my scientific posters presented at 
+the StatSei conference in Santorini, Greece in June of 2011, and a poster
+presented at EGU in Vienna, Austria in April of 2012.
+
+Acknowledgements: The baposter.cls and much of the code and comments in the .tex file 
+should be credited to Brian Amberg (http://www.brian-amberg.de/uni/poster/)
+I only edited the code to suit my purposes.
+
+Many thanks go to Alvaro Gonzalez for his efforts on the EGU poster (Mmax).
